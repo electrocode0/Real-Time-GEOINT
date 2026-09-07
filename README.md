@@ -1,4 +1,4 @@
-# Real-Time-Geospatial-Intelligence-System
+# Atlas: Real-Time-Geospatial-Intelligence-System
 Key Features:
 
 * Real-time Data Processing: Using Kafka for streaming data ingestion and processing.
